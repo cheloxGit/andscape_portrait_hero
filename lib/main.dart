@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:sampleResponsive/constants.dart';
-import 'package:sampleResponsive/dashboard.dart';
-import 'package:sampleResponsive/earth.dart';
-import 'package:sampleResponsive/jupyter.dart';
-import 'package:sampleResponsive/mars.dart';
-import 'package:sampleResponsive/mercury.dart';
-import 'package:sampleResponsive/saturn.dart';
-import 'package:sampleResponsive/venus.dart';
+import 'package:landscape_portrait_hero/constants.dart';
+import 'package:landscape_portrait_hero/earth.dart';
+import 'package:landscape_portrait_hero/jupyter.dart';
+import 'package:landscape_portrait_hero/mars.dart';
+import 'package:landscape_portrait_hero/mercury.dart';
+import 'package:landscape_portrait_hero/saturn.dart';
+import 'package:landscape_portrait_hero/venus.dart';
+
+import 'dashboard.dart';
 
 Future<void> main() async {
   // Routes();

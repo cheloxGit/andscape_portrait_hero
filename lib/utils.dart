@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sampleResponsive/constants.dart';
+import 'package:landscape_portrait_hero/constants.dart';
 
 getAppBar(BuildContext context, String title) {
   return AppBar(

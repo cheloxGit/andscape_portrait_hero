@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sampleResponsive/constants.dart';
-import 'package:sampleResponsive/utils.dart';
-// import 'package:try_recycling_app/widgets/app_bar.dart';
-
-// import '../../utils/constants.dart';
+import 'package:landscape_portrait_hero/constants.dart';
+import 'package:landscape_portrait_hero/utils.dart';
 
 class Dashboard extends StatefulWidget {
   @override
